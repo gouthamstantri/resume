@@ -98,9 +98,7 @@ h3 {
       }
       
       p {
-        padding: 2%;
-        background: #ffffff;
-        color: #000000000;
-        border: 1px solid #fffff;
+        
+        border: 1px solid #ffff;
         border-radius: .25em;
       }
